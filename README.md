@@ -1,2 +1,2 @@
-21th update
-try to watch new row on google sheet
+22th update
+replace ggsheet to notion
