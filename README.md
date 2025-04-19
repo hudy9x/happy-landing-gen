@@ -1,2 +1,2 @@
-20th update
-this is a complete guide to generate a content automatically
+21th update
+try to watch new row on google sheet
