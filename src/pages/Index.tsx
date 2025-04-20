@@ -9,6 +9,7 @@ const Index = () => {
     <div className="min-h-screen flex flex-col bg-white">
       <Navbar />
       <main className="flex-grow">
+        This is the new heading
         <Hero />
         <Partners />
       </main>
