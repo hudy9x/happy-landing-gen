@@ -1,2 +1,2 @@
-29th update
+30th update
 replace ggsheet to notion
